@@ -11,10 +11,6 @@ A beautifully designed stopwatch app built using **Flutter**. This app features 
 - Stylish animated buttons
 - Responsive layout
 
-## 📱 Preview
-
-![Stopwatch UI](https://via.placeholder.com/300x600.png?text=Stopwatch+UI+Preview)
-
 ## 🛠️ Tech Stack
 
 - Dart
